@@ -2,6 +2,8 @@
 
 A project that measures the time elapsed since the last reset and triggers an alarm (siren sound + servo motor movement) if the elapsed time exceeds a critical threshold. It can be used as a simulation of an emergency/warning system with a time limit.
 
+[Watch the silent project video](https://tg-jorj-2005.github.io/proiecte/embedded-mini-projects/#prezentare) · [MP4 file](docs/media/prezentare.mp4)
+
 ### Components
 
 * Arduino Uno

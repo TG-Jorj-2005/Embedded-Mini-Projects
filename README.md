@@ -89,6 +89,12 @@ A project that controls a DC motor using an **L293D motor driver**, with adjusta
 
 A simple temperature monitoring system built using an **ESP32**.
 
+## Live demo
+
+The Arduino/LED_LCD firmware runs on a simulated ATmega328P. Watch the reset button, LCD and servo respond to the compiled sketch.
+
+https://github.com/user-attachments/assets/274dbf7b-da2a-4805-9335-9fcece8fb531
+
 ## 🚀 Features
 
 * 🌡️ Measures temperature using a **DS18B20** temperature sensor
